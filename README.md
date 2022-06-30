@@ -1,1 +1,3 @@
 # meaning
+
+prior   ముందు
